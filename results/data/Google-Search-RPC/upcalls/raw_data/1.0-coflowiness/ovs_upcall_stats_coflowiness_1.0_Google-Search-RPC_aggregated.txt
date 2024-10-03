@@ -1,0 +1,10 @@
+[00:46:09] UPCALL packets diff: 510954, errors diff: 39550
+[00:46:10] UPCALL packets diff: 0, errors diff: 0
+[00:46:11] UPCALL packets diff: 0, errors diff: 0
+[00:46:12] UPCALL packets diff: 0, errors diff: 0
+[00:46:13] UPCALL packets diff: 44215, errors diff: 0
+[00:46:14] UPCALL packets diff: 61522, errors diff: 0
+[00:46:15] UPCALL packets diff: 30900, errors diff: 0
+[00:46:16] UPCALL packets diff: 0, errors diff: 0
+[00:46:17] UPCALL packets diff: 1, errors diff: 0
+[00:46:18] UPCALL packets diff: 1, errors diff: 0
