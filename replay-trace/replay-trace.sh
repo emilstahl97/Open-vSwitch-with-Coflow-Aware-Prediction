@@ -1,0 +1,1 @@
+sudo /home/emilstahl/fastclick/bin/click --dpdk -l 0-15 -- /home/emilstahl/gen-1core.click

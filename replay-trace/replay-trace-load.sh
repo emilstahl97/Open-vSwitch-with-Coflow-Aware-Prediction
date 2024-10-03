@@ -1,0 +1,1 @@
+sudo /home/emilstahl/fastclick/bin/click --dpdk -l 0-15 -- /home/emilstahl/DA240X/Benchmark/replay-trace/gen-1core-load.click
