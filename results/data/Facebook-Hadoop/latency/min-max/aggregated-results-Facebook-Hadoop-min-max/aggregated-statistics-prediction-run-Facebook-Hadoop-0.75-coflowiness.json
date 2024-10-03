@@ -1,0 +1,341 @@
+{
+    "benchmark_name": "prediction-run-Facebook-Hadoop-0.75-coflowiness",
+    "aggregated_delay_statistics": {
+        "min_std_dev": 0.699205898780101,
+        "min_cv": 0.07438360625320223,
+        "min_min": 9,
+        "min_max": 11,
+        "max_std_dev": 53130.042039007145,
+        "max_cv": 0.10372601601632897,
+        "max_min": 436687,
+        "max_max": 624810,
+        "mean_std_dev": 354.31598675340814,
+        "mean_cv": 0.037240665524572975,
+        "mean_min": 8903.160441437472,
+        "mean_max": 10131.267010276295
+    },
+    "aggregated_first_base_packet_delay_statistics": {
+        "min_std_dev": 1.429840705968481,
+        "min_cv": 0.029420590657787675,
+        "min_min": 47,
+        "min_max": 51,
+        "max_std_dev": 35341.93033478631,
+        "max_cv": 0.07306168234620272,
+        "max_min": 433571,
+        "max_max": 527911,
+        "mean_std_dev": 1683.04545389984,
+        "mean_cv": 0.04131623326910614,
+        "mean_min": 37545.20904712553,
+        "mean_max": 43567.55839302398
+    },
+    "aggregated_first_associated_packet_delay_statistics": {
+        "min_std_dev": 2.7507574714370344,
+        "min_cv": 0.0737468491001886,
+        "min_min": 33,
+        "min_max": 41,
+        "max_std_dev": 41173.84295412697,
+        "max_cv": 0.11896224147666692,
+        "max_min": 299056,
+        "max_max": 421922,
+        "mean_std_dev": 161.6699715113316,
+        "mean_cv": 0.1360869929659344,
+        "mean_min": 1046.013478377813,
+        "mean_max": 1522.9313559702498
+    },
+    "first_base_packet_delay_overall_std_dev": 62773.34045745939,
+    "first_base_packet_delay_overall_cv": 1.541388298934158,
+    "first_associated_packet_delay_overall_std_dev": 8421.466500905288,
+    "first_associated_packet_delay_overall_cv": 7.0897227835206005,
+    "run_stats": {
+        "run_1": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 436687,
+                "mean": 9106.930919108683,
+                "median": 453.0,
+                "std_dev": 36031.96983795622,
+                "variance": 1298302850.4033868,
+                "coefficient_of_variation": 3.9565436652595967
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 48,
+                "max": 433571,
+                "mean": 38871.063448448134,
+                "median": 11339,
+                "std_dev": 60356.99118783928,
+                "variance": 3642966385.248909,
+                "coefficient_of_variation": 1.5527486472781062
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 34,
+                "max": 299056,
+                "mean": 1127.15469348659,
+                "median": 416.0,
+                "std_dev": 8672.238041097527,
+                "variance": 75207712.64145908,
+                "coefficient_of_variation": 7.693920001585569
+            }
+        },
+        "run_2": {
+            "aggregated_delay_statistics": {
+                "min": 10,
+                "max": 443654,
+                "mean": 9461.926228310473,
+                "median": 454,
+                "std_dev": 37677.956087802995,
+                "variance": 1419628374.954411,
+                "coefficient_of_variation": 3.982059802481761
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 47,
+                "max": 437489,
+                "mean": 42144.22957100684,
+                "median": 11396,
+                "std_dev": 65223.44549771259,
+                "variance": 4254097842.5930853,
+                "coefficient_of_variation": 1.5476245778279245
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 39,
+                "max": 311656,
+                "mean": 1080.19621682243,
+                "median": 424,
+                "std_dev": 8311.97691183091,
+                "variance": 69088960.18281011,
+                "coefficient_of_variation": 7.694876895867975
+            }
+        },
+        "run_3": {
+            "aggregated_delay_statistics": {
+                "min": 11,
+                "max": 624810,
+                "mean": 9529.74501453881,
+                "median": 453.0,
+                "std_dev": 37563.47841019892,
+                "variance": 1411014910.2734802,
+                "coefficient_of_variation": 3.9417086556766385
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 47,
+                "max": 510639,
+                "mean": 40754.25812764346,
+                "median": 11230,
+                "std_dev": 64550.762960603766,
+                "variance": 4166800998.7960553,
+                "coefficient_of_variation": 1.5839022945388677
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 39,
+                "max": 350413,
+                "mean": 1066.310056409259,
+                "median": 421,
+                "std_dev": 8243.943523681944,
+                "variance": 67962604.82165746,
+                "coefficient_of_variation": 7.731281791942369
+            }
+        },
+        "run_4": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 554919,
+                "mean": 10131.267010276295,
+                "median": 498.0,
+                "std_dev": 36462.792201107775,
+                "variance": 1329535215.1011658,
+                "coefficient_of_variation": 3.5990357537831175
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 49,
+                "max": 527911,
+                "mean": 41652.72171643216,
+                "median": 12885,
+                "std_dev": 61814.15350340039,
+                "variance": 3820989573.341947,
+                "coefficient_of_variation": 1.4840363595979482
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 40,
+                "max": 350495,
+                "mean": 1522.9313559702498,
+                "median": 461,
+                "std_dev": 8621.779359597607,
+                "variance": 74335079.32558334,
+                "coefficient_of_variation": 5.661305301646197
+            }
+        },
+        "run_5": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 515797,
+                "mean": 8903.160441437472,
+                "median": 454.0,
+                "std_dev": 35458.15401475911,
+                "variance": 1257280686.1343772,
+                "coefficient_of_variation": 3.982647987531286
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 50,
+                "max": 441860,
+                "mean": 37545.20904712553,
+                "median": 10632,
+                "std_dev": 58356.34430606675,
+                "variance": 3405462920.7682095,
+                "coefficient_of_variation": 1.5542953625007057
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 38,
+                "max": 317736,
+                "mean": 1124.165978324546,
+                "median": 425.0,
+                "std_dev": 7946.105972891803,
+                "variance": 63140600.132426776,
+                "coefficient_of_variation": 7.068445519704002
+            }
+        },
+        "run_6": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 507895,
+                "mean": 9830.748204060497,
+                "median": 467.0,
+                "std_dev": 36963.8451479544,
+                "variance": 1366325848.1219523,
+                "coefficient_of_variation": 3.7600235893222083
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 49,
+                "max": 507821,
+                "mean": 40842.37905752601,
+                "median": 11713.5,
+                "std_dev": 62419.256285855554,
+                "variance": 3896163555.2793183,
+                "coefficient_of_variation": 1.5282962874894916
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 33,
+                "max": 376396,
+                "mean": 1361.2177656854976,
+                "median": 434,
+                "std_dev": 9279.614885062267,
+                "variance": 86111252.41506918,
+                "coefficient_of_variation": 6.8171420613138505
+            }
+        },
+        "run_7": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 517811,
+                "mean": 9549.543272239196,
+                "median": 455,
+                "std_dev": 37357.97705638006,
+                "variance": 1395618449.7450192,
+                "coefficient_of_variation": 3.912017150074685
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 47,
+                "max": 505720,
+                "mean": 43567.55839302398,
+                "median": 12701,
+                "std_dev": 65792.78930432606,
+                "variance": 4328691124.443441,
+                "coefficient_of_variation": 1.5101325787139077
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 34,
+                "max": 336570,
+                "mean": 1142.24933369269,
+                "median": 422.0,
+                "std_dev": 8593.397782333588,
+                "variance": 73846485.44541582,
+                "coefficient_of_variation": 7.523224158557968
+            }
+        },
+        "run_8": {
+            "aggregated_delay_statistics": {
+                "min": 10,
+                "max": 509172,
+                "mean": 9675.148174642081,
+                "median": 473,
+                "std_dev": 36329.54721964373,
+                "variance": 1319836001.1843238,
+                "coefficient_of_variation": 3.7549344530826985
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 48,
+                "max": 472049,
+                "mean": 40872.262393967954,
+                "median": 11920,
+                "std_dev": 62111.26453984908,
+                "variance": 3857809182.7391133,
+                "coefficient_of_variation": 1.5196434183446532
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 38,
+                "max": 421922,
+                "mean": 1339.0395103115927,
+                "median": 438.0,
+                "std_dev": 8559.988213406232,
+                "variance": 73273398.21365361,
+                "coefficient_of_variation": 6.392633038448831
+            }
+        },
+        "run_9": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 492627,
+                "mean": 9672.75287874896,
+                "median": 457,
+                "std_dev": 37739.69219642628,
+                "variance": 1424284367.0809987,
+                "coefficient_of_variation": 3.9016495789260155
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 50,
+                "max": 485591,
+                "mean": 41223.21984032187,
+                "median": 11918,
+                "std_dev": 63295.0550203067,
+                "variance": 4006263990.023653,
+                "coefficient_of_variation": 1.5354223970247856
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 37,
+                "max": 302338,
+                "mean": 1070.6204894110604,
+                "median": 424,
+                "std_dev": 8010.8228218617,
+                "variance": 64173282.28326025,
+                "coefficient_of_variation": 7.482411275603728
+            }
+        },
+        "run_10": {
+            "aggregated_delay_statistics": {
+                "min": 9,
+                "max": 518780,
+                "mean": 9281.005247717687,
+                "median": 457.0,
+                "std_dev": 36937.403507258095,
+                "variance": 1364371777.8580024,
+                "coefficient_of_variation": 3.9798925354924735
+            },
+            "aggregated_base_first_packet_statistics": {
+                "min": 51,
+                "max": 514622,
+                "mean": 39884.04281364568,
+                "median": 11367,
+                "std_dev": 63368.12290576013,
+                "variance": 4015519000.5995216,
+                "coefficient_of_variation": 1.588808917938473
+            },
+            "aggregated_associated_first_packet_statistics": {
+                "min": 41,
+                "max": 394503,
+                "mean": 1046.013478377813,
+                "median": 430.0,
+                "std_dev": 7875.023572066527,
+                "variance": 62015996.260603435,
+                "coefficient_of_variation": 7.528606212875319
+            }
+        }
+    }
+}
