@@ -6,3 +6,4 @@ This thesis explores potential optimizations of Open vSwitch (OVS) by employing 
 
 Results indicate that the benefits OVS gains from the ability to predict and preload flows are contingent upon the flow rate of the traffic trace. Notably, even a modest ability to foresee flows can result in enhancements in both maximum and mean latency, as well as reductions in CPU utilization. These improvements underscore the potential of predictive techniques in boosting data plane responsiveness and overall system efficiency. Suggestions for future work include developing a real-time coflow predictor that could dynamically load flows into the datapath during runtime. Such advancements could reduce latency and resource consumption in production deployments of OVS.
 
+[Presentation](https://youtu.be/mukcmX4k5f4?si=WJwFTcxU12WkmDHa)
