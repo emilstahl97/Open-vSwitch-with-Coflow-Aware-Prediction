@@ -11,3 +11,5 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 [Presentation](https://youtu.be/ddpIN-swy2w?si=e8LfnuZkCXNVF3xA)
 
 [Presentation OVSCON 2024](https://youtu.be/Z55xcDCCxgo?si=a4ksMEN8CLHtvgmL)
+
+[Presentation OVSCON 2024 Q&A](https://youtu.be/hCVegvOWrqk?si=VuplRQ58GHBXitNZ&t=1421)
