@@ -6,11 +6,15 @@ This thesis explores potential optimizations of Open vSwitch (OVS) by employing 
 
 Results indicate that the benefits OVS gains from the ability to predict and preload flows are contingent upon the flow rate of the traffic trace. Notably, even a modest ability to foresee flows can result in enhancements in both maximum and mean latency, as well as reductions in CPU utilization. These improvements underscore the potential of predictive techniques in boosting data plane responsiveness and overall system efficiency. Suggestions for future work include developing a real-time coflow predictor that could dynamically load flows into the datapath during runtime. Such advancements could reduce latency and resource consumption in OVS production deployments.
 
+#### Keywords: Open vSwitch, Software-Defined Networking, Slow path, Coflows
+
 [Paper](paper/Enabling_traffic_prediction_in_virtual_switching_A_case_study.pdf)
 
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
 [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361030)
+
+[PDF at DiVA](https://kth.diva-portal.org/smash/get/diva2:1943521/FULLTEXT02.pdf)
 
 [Presentation](https://youtu.be/ddpIN-swy2w?si=e8LfnuZkCXNVF3xA)
 
