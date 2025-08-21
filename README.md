@@ -10,7 +10,7 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 
 [ANRW 2025 Paper - ACM](https://dl.acm.org/doi/10.1145/3744200.3744762)
 
-[Paper - PDF](paper/ANRW-2025.pdf)  
+[ANRW 2025 Paper - PDF](paper/ANRW-2025.pdf)  
 
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
