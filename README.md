@@ -12,6 +12,8 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 
 [Paper](paper/On_the_Benefits_of_Predictable_Traffic_in_Virtual Switches_A_Case_Study.pdf)  
 
+[Paper 2](paper/Enabling_traffic_prediction_in_virtual_switching_A_case_study.pdf)
+
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
 [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361030)
