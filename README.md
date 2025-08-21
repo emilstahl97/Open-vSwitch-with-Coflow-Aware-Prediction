@@ -8,9 +8,9 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 
 #### Keywords: Open vSwitch, Software-Defined Networking, Slow path, Coflows
 
-[ANRW 2025 Paper](https://dl.acm.org/doi/10.1145/3744200.3744762)
+[ANRW 2025 Paper - ACM](https://dl.acm.org/doi/10.1145/3744200.3744762)
 
-[Paper](paper/ANRW-2025.pdf)  
+[Paper - PDF](paper/ANRW-2025.pdf)  
 
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
